@@ -1,0 +1,4 @@
+[Mon Oct 06 21:46:59 2025] Query: google.com | Result: 172.253.118.139
+[Mon Oct 06 21:46:59 2025] Query: 2606:4700:4700::1111 | Result: one.one.one.one
+[Mon Oct 06 21:46:59 2025] Query: 8.8.8.8 | Result: dns.google
+[Mon Oct 06 21:46:59 2025] Query: 127.0.0.1 | Result: Warning: special IP address; kubernetes.docker.internal
